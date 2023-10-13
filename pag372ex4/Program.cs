@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        //soluzione complicata 
+        //soluzione complicata bhooo
         //creo una funzione che prende in input una str per poter cambiare la richiesta all'utente 
         /*
         static int[] AskTime(string time)
